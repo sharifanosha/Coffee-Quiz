@@ -1,0 +1,37 @@
+
+	body {
+   		font-family: Sofia, sans-serif;
+   		background-color: tan;
+    }
+
+
+	p {
+    	color:Maroon;
+	}
+ 	
+
+	h1 {
+        text-align: center;
+        color:Maroon;
+    }
+
+    .question {
+      margin-bottom: 20px;
+    }
+
+    .result-image {
+      width: 200px;
+      height: 200px;
+      margin: 10px;
+    }
+
+    #result {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    #restartBtn {
+      display: none;
+      margin-top: 20px;
+    }
+
